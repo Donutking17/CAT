@@ -1,0 +1,32 @@
+.heading{
+    width:100%;
+    margin:0;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+#ankor{
+    font-size:35px;
+    font-family: 'Lilita One', sans-serif;
+    background-color:lightsalmon;
+    color:snow;
+    border-color:darkslategrey;
+    border-radius: 8px;
+}
+
+body{
+    background-size:cover;
+    text-align:center;
+
+}
+
+#copyfooter{
+    width:100%;
+    background-color:lightsalmon;
+    font-family: 'DM Sans', sans-serif;
+    color:snow;
+    bottom:0;
+    position:fixed;
+    font-size:30px;
+}
